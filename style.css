@@ -185,14 +185,21 @@ body{
 }
 .recipe-instruct{
     /* padding-right: 160px; */
+    height: 80%;
     
 }
 .recipe-instruct ul{
     padding-left: 60px;
-    margin-left: 220px;
+    margin-left: 200px;
+    font-size: 12px;
+    font-weight: 700;
 }
 .recipe-instruct li{
     margin-right: 250px;
+    word-spacing: 0%;
+}
+.recipe-instruct h3{
+    font-size: 25px;
 }
 .recipe-meal-img img{
     width: 300px;
